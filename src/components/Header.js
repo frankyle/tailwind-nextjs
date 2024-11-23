@@ -9,7 +9,7 @@ const Header = () => {
     <header className="bg-gradient-to-r from-indigo-600 to-purple-600 text-white">
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         {/* Logo */}
-        <h1 className="text-2xl font-bold">My Brand</h1>
+        <h1 className="text-2xl font-bold">Magai Portifolio</h1>
 
         {/* Menu Button (Visible on Mobile) */}
         <button
